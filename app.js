@@ -1,2 +1,1 @@
-console.log('App main - Code by Member SV2');
-
+console.log('App main - Combined Code by SV1 and SV2');
